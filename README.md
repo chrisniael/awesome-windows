@@ -1,2 +1,26 @@
 # awesome-windows
 Awesome software I used in Windows.
+
+* [Chrome]()
+* [Edge]()
+* [Firefox]()
+* [7-Zip]()
+* [DeskPins](https://efotinis.neocities.org/deskpins)
+* [Ditto](https://ditto-cp.sourceforge.io)
+* [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty)
+* [PuTTY Session Manager]()
+* [Xshell]()
+* [WinSCP]()
+* [Xftp]()
+* [Typora]()
+* [VcXsrv Windows X Server](https://sourceforge.net/projects/vcxsrv)
+* PuTTY Session Manager
+* [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg)
+* [Mellow]()
+* [V2RayW]()
+* [V2RayN]()
+* [Git]()
+* [Microsoft Remote Desktop](https://docs.microsoft.com/zh-cn/windows-server/remote/remote-desktop-services/clients/remote-desktop-clients)
+* [Windows Terminal]()
+* [WSL]()
+* [Geek Uninstaller](https://geekuninstaller.com)
