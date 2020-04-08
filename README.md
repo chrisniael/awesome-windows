@@ -22,8 +22,15 @@ Awesome software I used in Windows.
 * [Microsoft Remote Desktop](https://docs.microsoft.com/zh-cn/windows-server/remote/remote-desktop-services/clients/remote-desktop-clients)
 * [Windows Terminal](https://github.com/microsoft/terminal)
 * [WSL](https://docs.microsoft.com/windows/wsl)
+* [wsltty](https://github.com/mintty/wsltty)
 * [Geek Uninstaller](https://geekuninstaller.com)
 * [USB Safely Remove](https://safelyremove.com)
 * [Oracle VM VirtualBox](https://www.virtualbox.org)
 * [TeamViewer](https://www.teamviewer.com)
 * [AnyDeak](https://anydesk.com)
+* [Authy](https://authy.com)
+* KeyTweak
+* [LibreOffice](https://www.libreoffice.org)
+* [Postman](https://www.postman.com)
+* 金山打字通
+* 迅雷
