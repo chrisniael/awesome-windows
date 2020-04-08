@@ -25,3 +25,5 @@ Awesome software I used in Windows.
 * [Geek Uninstaller](https://geekuninstaller.com)
 * [USB Safely Remove](https://safelyremove.com)
 * [Oracle VM VirtualBox](https://www.virtualbox.org)
+* [TeamViewer](https://www.teamviewer.com)
+* [AnyDeak](https://anydesk.com)
