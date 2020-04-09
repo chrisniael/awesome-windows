@@ -41,3 +41,6 @@ Awesome software I used in Windows.
 * [微PE工具箱](http://www.wepe.com.cn)
 * [DiskGenius](https://www.diskgenius.com)
 * [Advanced IP Scanner](https://www.advanced-ip-scanner.com)
+* [Wake On Lan GUI](https://www.depicus.com/wake-on-lan/wake-on-lan-gui)
+* [Everything](https://www.voidtools.com)
+* [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
