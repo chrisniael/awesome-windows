@@ -47,3 +47,4 @@ Awesome software I used in Windows.
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
 * Norton Ghost
 * [VLC media player](https://www.videolan.org/vlc)
+* [Beyond Compare](ihttps://www.scootersoftware.com)
