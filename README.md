@@ -40,3 +40,4 @@ Awesome software I used in Windows.
 * [UltraISO](https://www.ultraiso.com)
 * [微PE工具箱](http://www.wepe.com.cn)
 * [DiskGenius](https://www.diskgenius.com)
+* [Advanced IP Scanner](https://www.advanced-ip-scanner.com)
