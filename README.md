@@ -48,3 +48,4 @@ Awesome software I used in Windows.
 * Norton Ghost
 * [VLC media player](https://www.videolan.org/vlc)
 * [Beyond Compare](ihttps://www.scootersoftware.com)
+* [CCleaner](https://www.ccleaner.com)
