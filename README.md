@@ -34,3 +34,9 @@ Awesome software I used in Windows.
 * [Postman](https://www.postman.com)
 * 金山打字通
 * 迅雷
+* [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals)
+  * [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
+  * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+* [UltraISO](https://www.ultraiso.com)
+* [微PE工具箱](http://www.wepe.com.cn)
+* [DiskGenius](https://www.diskgenius.com)
