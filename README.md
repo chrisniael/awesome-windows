@@ -54,3 +54,4 @@ Awesome software I used in Windows.
 * [CCleaner](https://www.ccleaner.com)
 * [Snip & Paste](https://www.snipaste.com)
 * [winsw](https://github.com/winsw/winsw)
+* [ExeIconReplacer](https://github.com/nblookup/ExeIconReplacer)
