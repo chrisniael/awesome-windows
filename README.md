@@ -53,3 +53,4 @@ Awesome software I used in Windows.
 * [Beyond Compare](ihttps://www.scootersoftware.com)
 * [CCleaner](https://www.ccleaner.com)
 * [Snip & Paste](https://www.snipaste.com)
+* [winsw](https://github.com/winsw/winsw)
