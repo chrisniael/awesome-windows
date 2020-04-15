@@ -56,3 +56,6 @@ Awesome software I used in Windows.
 * [Snip & Paste](https://www.snipaste.com)
 * [winsw](https://github.com/winsw/winsw)
 * [ExeIconReplacer](https://github.com/nblookup/ExeIconReplacer)
+* [Sourcetree](https://www.sourcetreeapp.com)
+* [GitHub Desktop](https://desktop.github.com)
+* [Fork](https://git-fork.com)
