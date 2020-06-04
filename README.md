@@ -59,3 +59,4 @@ Awesome software I used in Windows.
 * [Sourcetree](https://www.sourcetreeapp.com)
 * [GitHub Desktop](https://desktop.github.com)
 * [Fork](https://git-fork.com)
+* [福昕PDF阅读器](https://www.foxitsoftware.cn/pdf-reader)
