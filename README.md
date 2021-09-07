@@ -61,3 +61,4 @@ Awesome software I used in Windows.
 - [Fork](https://git-fork.com)
 - [Adobe Acrobat Reader DC](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
 - [Dos2Unix/Unix2Dos](https://waterlan.home.xs4all.nl/dos2unix.html)
+- [posh-git](https://github.com/dahlbyk/posh-git)
