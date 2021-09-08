@@ -62,3 +62,5 @@ Awesome software I used in Windows.
 - [Adobe Acrobat Reader DC](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
 - [Dos2Unix/Unix2Dos](https://waterlan.home.xs4all.nl/dos2unix.html)
 - [posh-git](https://github.com/dahlbyk/posh-git)
+- [Foxmail](https://www.foxmail.com)
+- [PSReadLine](https://github.com/PowerShell/PSReadLine)
