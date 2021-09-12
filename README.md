@@ -34,7 +34,7 @@ Awesome software I used in Windows.
 - [LibreOffice](https://www.libreoffice.org)
 - [Postman](https://www.postman.com)
 - 金山打字通
-- 迅雷
+- [迅雷]()
 - [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals)
   - [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
   - [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
@@ -64,3 +64,5 @@ Awesome software I used in Windows.
 - [posh-git](https://github.com/dahlbyk/posh-git)
 - [Foxmail](https://www.foxmail.com)
 - [PSReadLine](https://github.com/PowerShell/PSReadLine)
+- [Alacritty](https://github.com/alacritty/alacritty)
+- [PotPlayer](https://potplayer.daum.net)
