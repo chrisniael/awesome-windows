@@ -74,3 +74,5 @@ Awesome software I used in Windows.
 - [Graphviz](http://www.graphviz.org)
 - [MuMu 安卓模拟器](https://mumu.163.com)
 - [LockerHunter](https://lockhunter.com)
+- [Neovim](https://neovim.io)
+- [Vim](https://www.vim.org)
