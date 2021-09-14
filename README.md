@@ -9,7 +9,7 @@ Awesome software I used in Windows.
 - [DeskPins](https://efotinis.neocities.org/deskpins)
 - [Ditto](https://ditto-cp.sourceforge.io)
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty)
-- PuTTY Session Manager
+- [PuTTY Session Manager](https://puttysm.sourceforge.io)
 - [Xshell](https://www.netsarang.com/xshell)
 - [Xftp](https://www.netsarang.com/xftp)
 - [WinSCP](https://winscp.net/eng)
