@@ -76,3 +76,4 @@ Awesome software I used in Windows.
 - [LockerHunter](https://lockhunter.com)
 - [Neovim](https://neovim.io)
 - [Vim](https://www.vim.org)
+- [Xmanager](https://www.netsarang.com/en/xmanager)
