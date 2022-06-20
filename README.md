@@ -77,3 +77,6 @@ Awesome software I used in Windows.
 - [Neovim](https://neovim.io)
 - [Vim](https://www.vim.org)
 - [Xmanager](https://www.netsarang.com/en/xmanager)
+- [Rufus](https://rufus.ie/zh)
+- [USBWritter](https://sourceforge.net/projects/usbwriter)
+- [Scoop](https://scoop.sh)
