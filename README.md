@@ -81,3 +81,4 @@ Awesome software I used in Windows.
 - [USBWritter](https://sourceforge.net/projects/usbwriter)
 - [Scoop](https://scoop.sh)
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer)
+- [mingw-winlibs](https://winlibs.com/)
