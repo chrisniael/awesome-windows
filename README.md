@@ -82,4 +82,5 @@ Awesome software I used in Windows.
 - [Scoop](https://scoop.sh)
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer)
 - [mingw-winlibs](https://winlibs.com/)
-- [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/)
+- [NirSoft](https://www.nirsoft.net/)
+  - [ChromePass](https://www.nirsoft.net/utils/chromepass.html)
