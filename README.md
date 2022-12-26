@@ -16,7 +16,7 @@ Awesome software I used in Windows.
 - [Typora](https://typora.io)
 - [VcXsrv Windows X Server](https://sourceforge.net/projects/vcxsrv)
 - [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg)
-- [Mellow](https://github.com/mellow-io/mellow)
+- [~~Mellow~~](https://github.com/mellow-io/mellow)
 - [V2RayW](https://github.com/Cenmrev/V2RayW)
 - [V2RayN](https://github.com/2dust/v2rayN)
 - [Git](https://git-scm.com/)
