@@ -84,3 +84,4 @@ Awesome software I used in Windows.
 - [mingw-winlibs](https://winlibs.com/)
 - [NirSoft](https://www.nirsoft.net/)
   - [ChromePass](https://www.nirsoft.net/utils/chromepass.html)
+- [Obsidian](https://obsidian.md/)
