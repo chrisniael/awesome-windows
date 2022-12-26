@@ -13,7 +13,7 @@ Awesome software I used in Windows.
 - [Xshell](https://www.netsarang.com/xshell)
 - [Xftp](https://www.netsarang.com/xftp)
 - [WinSCP](https://winscp.net/eng)
-- [Typora](https://typora.io)
+- [~~Typora~~](https://typora.io)
 - [VcXsrv Windows X Server](https://sourceforge.net/projects/vcxsrv)
 - [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg)
 - [~~Mellow~~](https://github.com/mellow-io/mellow)
