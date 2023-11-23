@@ -88,3 +88,4 @@ Awesome software I used in Windows.
 - [火绒安全软件](https://www.huorong.cn/person5.html)
 - [Windows Sandbox](https://learn.microsoft.com/zh-cn/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
 - [Flow Launcher](https://www.flowlauncher.com/)
+- [WinSW](https://github.com/winsw/winsw)
