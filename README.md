@@ -76,6 +76,7 @@ Awesome software I used in Windows.
 - [Rufus](https://rufus.ie/zh): ISO文件写入U盘
 - [USBWritter](https://sourceforge.net/projects/usbwriter): ISO文件写入U盘
 - [Scoop](https://scoop.sh): 命令行软件管理
+- [WinGet](https://github.com/microsoft/winget-cli): 命令行软件管理
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer): 磁盘使用空间分析
 - [mingw-winlibs](https://winlibs.com/): Windows上C/C++编译器(GCC,MinGW-w64,GDB,Make,Yasm,NASM,JWasm,LLVM)
 - [NirSoft](https://www.nirsoft.net/)
