@@ -2,90 +2,87 @@
 
 Awesome software I used in Windows.
 
-- [Chrome](https://www.google.com/chrome)
-- [Edge](https://www.microsoft.com/en-us/edge)
-- [Firefox](https://www.mozilla.org)
-- [7-Zip](https://www.7-zip.org)
-- [DeskPins](https://efotinis.neocities.org/deskpins)
-- [Ditto](https://ditto-cp.sourceforge.io)
-- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty)
-- [PuTTY Session Manager](https://puttysm.sourceforge.io)
-- [Xshell](https://www.netsarang.com/xshell)
-- [Xftp](https://www.netsarang.com/xftp)
-- [WinSCP](https://winscp.net/eng)
-- [~~Typora~~](https://typora.io)
-- [VcXsrv Windows X Server](https://sourceforge.net/projects/vcxsrv)
-- [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg)
-- [~~Mellow~~](https://github.com/mellow-io/mellow)
-- [V2RayW](https://github.com/Cenmrev/V2RayW)
-- [V2RayN](https://github.com/2dust/v2rayN)
-- [Git](https://git-scm.com/)
-- [Microsoft Remote Desktop](https://docs.microsoft.com/zh-cn/windows-server/remote/remote-desktop-services/clients/remote-desktop-clients)
-- [Windows Terminal](https://github.com/microsoft/terminal)
-- [WSL](https://docs.microsoft.com/windows/wsl)
-- [wsltty](https://github.com/mintty/wsltty)
-- [Geek Uninstaller](https://geekuninstaller.com)
-- [USB Safely Remove](https://safelyremove.com)
-- [Oracle VM VirtualBox](https://www.virtualbox.org)
-- [TeamViewer](https://www.teamviewer.com)
-- [AnyDeak](https://anydesk.com)
-- [Authy](https://authy.com)
-- KeyTweak
-- [LibreOffice](https://www.libreoffice.org)
-- [Postman](https://www.postman.com)
-- 金山打字通
+- [Chrome](https://www.google.com/chrome): 浏览器
+- [7-Zip](https://www.7-zip.org): 解压缩
+- [DeskPins](https://efotinis.neocities.org/deskpins): 窗口顶置
+- [Ditto](https://ditto-cp.sourceforge.io): 剪切板历史记录
+- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty): ssh客户端
+- [PuTTY Session Manager](https://puttysm.sourceforge.io): putty连接管理
+- [Xshell](https://www.netsarang.com/xshell): ssh客户端
+- [Xftp](https://www.netsarang.com/xftp): sftp客户端
+- [WinSCP](https://winscp.net/eng): sftp客户端
+- [~~Typora~~](https://typora.io): markdown编辑(已收费)
+- [VcXsrv Windows X Server](https://sourceforge.net/projects/vcxsrv): X11服务器
+- [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg): ...
+- [~~Mellow~~](https://github.com/mellow-io/mellow): ...
+- [Git](https://git-scm.com/): git版本管理
+- [Microsoft Remote Desktop](https://docs.microsoft.com/zh-cn/windows-server/remote/remote-desktop-services/clients/remote-desktop-clients): 远程桌面
+- [Windows Terminal](https://github.com/microsoft/terminal): 终端模拟器
+- [WSL](https://docs.microsoft.com/windows/wsl): Linux子系统
+- [wsltty](https://github.com/mintty/wsltty): 基于Mintty的Linux子系统终端模拟器
+- [Geek Uninstaller](https://geekuninstaller.com): 卸载软件
+- [USB Safely Remove](https://safelyremove.com): U盘快捷弹出
+- [Oracle VM VirtualBox](https://www.virtualbox.org): 虚拟机
+- [TeamViewer](https://www.teamviewer.com): 远程桌面
+- [AnyDeak](https://anydesk.com): 远程桌面
+- [向日葵](https://sunlogin.oray.com/): 远程桌面
+- [Authy](https://authy.com): 2FA管理
+- KeyTweak: 按键映射
+- [LibreOffice](https://www.libreoffice.org): 开源Office
+- [Postman](https://www.postman.com): HTTP请求工具
+- 金山打字通: 打字练习
 - [迅雷]()
 - [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals)
-  - [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
-  - [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
-  - [TCPView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
-  - [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
-  - [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
-- [UltraISO](https://www.ultraiso.com)
-- [DAEMON Tools](https://www.daemon-tools.cc)
-- [微 PE 工具箱](http://www.wepe.com.cn)
-- [DiskGenius](https://www.diskgenius.com)
-- [Advanced IP Scanner](https://www.advanced-ip-scanner.com)
-- [Wake On Lan GUI](https://www.depicus.com/wake-on-lan/wake-on-lan-gui)
-- [Everything](https://www.voidtools.com)
-- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
-- Norton Ghost
-- [VLC media player](https://www.videolan.org/vlc)
-- [Beyond Compare](ihttps://www.scootersoftware.com)
-- [CCleaner](https://www.ccleaner.com)
-- [Snip & Paste](https://www.snipaste.com)
-- [winsw](https://github.com/winsw/winsw)
-- [ExeIconReplacer](https://github.com/nblookup/ExeIconReplacer)
-- [Sourcetree](https://www.sourcetreeapp.com)
-- [GitHub Desktop](https://desktop.github.com)
-- [Fork](https://git-fork.com)
-- [Adobe Acrobat Reader DC](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
-- [Dos2Unix/Unix2Dos](https://waterlan.home.xs4all.nl/dos2unix.html)
-- [posh-git](https://github.com/dahlbyk/posh-git)
-- [Foxmail](https://www.foxmail.com)
-- [PSReadLine](https://github.com/PowerShell/PSReadLine)
-- [Alacritty](https://github.com/alacritty/alacritty)
-- [PotPlayer](https://potplayer.daum.net)
-- [MinGW-w64](https://sourceforge.net/projects/mingw-w64)
-- [Figma](https://www.figma.com)
-- [Resource Hacker](http://www.angusj.com/resourcehacker)
-- [LLVM](https://llvm.org)
-- [draw.io](https://github.com/jgraph/drawio-desktop)
-- [Graphviz](http://www.graphviz.org)
-- [MuMu 安卓模拟器](https://mumu.163.com)
-- [LockerHunter](https://lockhunter.com)
-- [Neovim](https://neovim.io)
-- [Vim](https://www.vim.org)
-- [Xmanager](https://www.netsarang.com/en/xmanager)
-- [Rufus](https://rufus.ie/zh)
-- [USBWritter](https://sourceforge.net/projects/usbwriter)
-- [Scoop](https://scoop.sh)
-- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer)
-- [mingw-winlibs](https://winlibs.com/)
+  - [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon): 进程监控
+  - [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer): 进程浏览
+  - [TCPView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview): 端口检查
+  - [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns): 开机自动启动软件管理
+  - [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit): 放大镜
+- [UltraISO](https://www.ultraiso.com): ISO工具
+- [DAEMON Tools](https://www.daemon-tools.cc): 虚拟光驱
+- [微 PE 工具箱](http://www.wepe.com.cn): PE启动盘
+- [DiskGenius](https://www.diskgenius.com):磁盘分区工具
+- [Advanced IP Scanner](https://www.advanced-ip-scanner.com): 局域网IP扫描
+- [Wake On Lan GUI](https://www.depicus.com/wake-on-lan/wake-on-lan-gui): WOL客户端
+- [Everything](https://www.voidtools.com): 全局文件搜索
+- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html): CPU信息
+- Norton Ghost: 磁盘备份恢复
+- [VLC media player](https://www.videolan.org/vlc): 视频播放器
+- [Beyond Compare](ihttps://www.scootersoftware.com): 文件差异比较
+- [CCleaner](https://www.ccleaner.com): 系统清理工具
+- [Snip & Paste](https://www.snipaste.com): 截图工具
+- [ExeIconReplacer](https://github.com/nblookup/ExeIconReplacer): 替换可执行文件的图标
+- [Sourcetree](https://www.sourcetreeapp.com): git图形化客户端
+- [GitHub Desktop](https://desktop.github.com): git图形化客户端
+- [Fork](https://git-fork.com): git图形化客户端
+- [Adobe Acrobat Reader DC](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html): PDF阅读器
+- [Dos2Unix/Unix2Dos](https://waterlan.home.xs4all.nl/dos2unix.html): 换行符转化
+- [posh-git](https://github.com/dahlbyk/posh-git): PowerShell git提示补全
+- [Foxmail](https://www.foxmail.com): 邮件客户端
+- [PSReadLine](https://github.com/PowerShell/PSReadLine): 让PowerShell使用起来像Bash(高亮,快捷键...) 
+- [Alacritty](https://github.com/alacritty/alacritty): 终端模拟器
+- [PotPlayer](https://potplayer.daum.net): 视频播放器
+- [MinGW-w64](https://sourceforge.net/projects/mingw-w64): Windows GCC
+- [Figma](https://www.figma.com): 原型工具
+- [Resource Hacker](http://www.angusj.com/resourcehacker): 可执行文件的资源反编译工具
+- [LLVM](https://llvm.org): LLVM工具套件
+- [draw.io](https://github.com/jgraph/drawio-desktop): 原型工具
+- [Graphviz](http://www.graphviz.org): 图像生成工具
+- [MuMu 安卓模拟器](https://mumu.163.com): 安卓模拟器
+- [LockerHunter](https://lockhunter.com): 查看文件被哪些进程占用
+- [Neovim](https://neovim.io): 编辑器
+- [Vim](https://www.vim.org): 编辑器
+- [Xmanager](https://www.netsarang.com/en/xmanager): 脑图
+- [Rufus](https://rufus.ie/zh): ISO文件写入U盘
+- [USBWritter](https://sourceforge.net/projects/usbwriter): ISO文件写入U盘
+- [Scoop](https://scoop.sh): 命令行软件管理
+- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer): 磁盘使用空间分析
+- [mingw-winlibs](https://winlibs.com/): Windows上C/C++编译器(GCC,MinGW-w64,GDB,Make,Yasm,NASM,JWasm,LLVM)
 - [NirSoft](https://www.nirsoft.net/)
-  - [ChromePass](https://www.nirsoft.net/utils/chromepass.html)
-- [Obsidian](https://obsidian.md/)
-- [火绒安全软件](https://www.huorong.cn/person5.html)
-- [Windows Sandbox](https://learn.microsoft.com/zh-cn/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
-- [Flow Launcher](https://www.flowlauncher.com/)
-- [WinSW](https://github.com/winsw/winsw)
+  - [ChromePass](https://www.nirsoft.net/utils/chromepass.html): 查看Chrome记录的密码
+- [Obsidian](https://obsidian.md/): 写作
+- [火绒安全软件](https://www.huorong.cn/person5.html): 杀毒
+- [Windows Sandbox](https://learn.microsoft.com/zh-cn/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview): 提供隔离环境运行程序
+- [Flow Launcher](https://www.flowlauncher.com/): 类似于macOS的Spotlight
+- [WinSW](https://github.com/winsw/winsw): 将Windows普通进程包装成Windows服务
+- [Driver Booster](https://www.iobit.com/en/driver-booster.php): 驱动更新
