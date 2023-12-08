@@ -31,6 +31,7 @@ Awesome software I used in Windows.
 - [LibreOffice](https://www.libreoffice.org): 开源Office
 - [Postman](https://www.postman.com): HTTP请求工具
 - 金山打字通: 打字练习
+- [阿珊打字通](https://at01.cn/)：打字练习
 - [迅雷]()
 - [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals)
   - [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon): 进程监控
