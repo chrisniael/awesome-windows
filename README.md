@@ -89,3 +89,4 @@ Awesome software I used in Windows.
 - [WinSW](https://github.com/winsw/winsw): 将Windows普通进程包装成Windows服务
 - [Driver Booster](https://www.iobit.com/en/driver-booster.php): 驱动更新
 - [paste](https://www.c3scripts.com/tutorials/msdos/paste.html): Windows Command默认不带 paste 命令，与 clip 对应
+- [OpenArk](https://github.com/BlackINT3/OpenArk): 工程师的百宝工具箱，能查看全局热键占用
